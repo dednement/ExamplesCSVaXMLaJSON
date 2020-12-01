@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+	<user>
+		<brand>Lanos</brand>
+		<city>Odessa</city>
+		<name>Andrey</name>
+	</user>
+	<user>
+		<brand>Kia</brand>
+		<city>Kiyv</city>
+		<name>Sanya</name>
+	</user>
+	<user>
+		<brand>Toyota</brand>
+		<city>Kherson</city>
+		<name>Leha</name>
+	</user>
+	<user>
+		<brand>Mazda</brand>
+		<city>Mykolaiyv</city>
+		<name>Misha</name>
+	</user>
+	<user>
+		<brand>BMW</brand>
+		<city>Lviv</city>
+		<name>Senya</name>
+	</user>
+</users>

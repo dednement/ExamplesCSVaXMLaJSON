@@ -1,0 +1,29 @@
+{
+    "users": [
+	     {
+      "brand": "Lanos",
+			"city": "Odessa",
+			"name": "Andrey"
+	     },
+		 {
+      "brand": "Kia",
+			"city": "Kiyv",
+			"name": "Sanya"
+	     },
+		 {
+      "brand": "Toyota",
+			"city": "Kherson",
+			"name": "Leha"
+	     },
+		 {
+      "brand": "Mazda",
+			"city": "Mykolaiyv",
+			"name": "Misha"
+	     },
+		 {
+		 "brand": "BMW",
+			"city": "Lviv",
+			"name": "Senya"
+		 }
+	]
+}
